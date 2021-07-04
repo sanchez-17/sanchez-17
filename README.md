@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Gaston</h1>
 
 <h2 align="center">A web developer</h2>
-<p align="center">Apprentice of everything, master of nothing.</p>
 
 ## What i'm up to
 
