@@ -1,11 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Gaston</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, Welcome to my profile</h1>
 
-<h2 align="center">A web developer</h2>
-
-## What i'm up to
-
-- 🔭 I’m currently studying SQL in [FreecodeCamp](https://www.freecodecamp.org/news/sql-and-databases-full-course/) and [Udemy](https://www.udemy.com/).
-- 🌱 I’m currently working with [Python](https://reactjs.org).
 
 ## Languages and Tools
 
