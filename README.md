@@ -10,7 +10,6 @@
 </div>
 -->
 
-<h2 align="center">Contact</h2>
 <div align="center">
   <a href="https://twitter.com/Gaston48657927" style="display: inline; margin-right: 10px;">
     <img alt="Gaston Sanchez Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
